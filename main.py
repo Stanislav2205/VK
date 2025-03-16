@@ -1,7 +1,7 @@
 import configparser
 import json
 import requests
-from tqdm import tqdm
+from tqdm import tqdm 
 from datetime import datetime
 
 class VK:
